@@ -1,0 +1,3 @@
+David,VIP
+Bob,Member
+Chris,Non-member
